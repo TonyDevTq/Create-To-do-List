@@ -1,0 +1,18 @@
+1. Tạo ra ứng dụng to do list (Thêm, sửa , xoá, đánh dấu hoàn thành).
+
+- Xác định đầu vào: Nội dung công việc người dùng.
+- Xác định đầu ra: Danh sách hiển thị các công việc trên giao diện.
+- nhiệm vụ nhỏ:
+* Lấy nội dung từ ô nhập dữ liệu.
+* Thêm nội dung vào danh sách.
+* Hiển thị danh sách trên giao diện.
+* Xóa công việc khi cần.
+* Đánh dấu công việc hoàn thành.
+
+2. Phân chia bài toán thành từng bước.
+
+b1. Tạo giao diện html.
+b2. Bắt sự kiện khi người dùng nhập nội dung và nhấn nút.
+b3. Cập nhập danh sách dữ liệu trong js.
+b4. Hiện thị danh sách lên giao diện người dùng.
+B5. Xử lý logic coá hoặc đánh dấu hoàn thành.
